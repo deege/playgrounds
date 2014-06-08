@@ -62,6 +62,7 @@ while index < 10 {
     index++
 }
 
+// do while loop
 index = 0
 do {
     println("in do while loop")
